@@ -1,0 +1,66 @@
+
+.collapse{
+    margin-left: 900px;
+    padding: 5px;
+}
+.navbar-brand{
+margin-left: 100px;
+font-weight: 20px;
+}
+.main-div{
+    display: flex;
+}
+.logo-1 img{
+    width: 500px;
+    height: 500px;
+    padding-left: 20px;
+}
+.written h1 p{
+    align-items: center;
+    justify-content: center;
+}
+.logo-4 img{
+    width: 500px;
+    height: 500px;
+    padding-left: 30px;
+}
+.card-main{
+    display: flex;
+    width: 500px;
+    height: 500px;
+}
+
+.card-1{
+    width: 400px;
+    height: 400px;
+
+}
+.card-body img{
+    height: 400px;
+    width: 400px;
+}
+.row-1{
+    margin-top: 20px;
+    display: flex;
+    border: none;
+}
+.card-body-1{
+margin: 40px;
+font-size: 25px;
+padding-left:10px ;
+}
+.card-body-1 a{
+    background-color: greenyellow;
+    color: black;
+} 
+.card{
+    border: 0px !important;
+}
+.card-2 img{
+    width: 400px;
+    height: 400px;
+}
+.row-2{
+    display: flex;
+
+}
